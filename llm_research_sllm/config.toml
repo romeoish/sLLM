@@ -1,0 +1,11 @@
+# .streamlit/config.toml
+
+[server]
+enableStaticServing = true
+
+[theme]
+primaryColor="#744DCD"
+backgroundColor="#F2F2ED"
+secondaryBackgroundColor="#E8E8E3"
+textColor="#363821"
+font="sans serif"
